@@ -1,0 +1,10 @@
+pyrofork
+TgCrypto
+pymongo[srv]
+aiohttp
+Flask
+gunicorn
+Jinja2
+werkzeug
+itsdangerous
+dnspython
