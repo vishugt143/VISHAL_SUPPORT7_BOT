@@ -5,8 +5,9 @@ app = Flask(__name__)
 def hello_world():
     return 'TechVJ'
 
+
 if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=8000)
+    app.run()
 
 # Don't Remove Credit @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot @Tech_VJ
