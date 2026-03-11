@@ -18,9 +18,10 @@ class Config:
 
     # Posts to copy
     POSTS = [
-        "https://t.me/forward_hack_lnx/250",
-        "https://t.me/forward_hack_lnx/251",
-        "https://t.me/forward_hack_lnx/252"
+        "https://t.me/forward_hack_lnx/268",
+        "https://t.me/forward_hack_lnx/269",
+        "https://t.me/forward_hack_lnx/270",
+        "https://t.me/forward_hack_lnx/271"
     ]
 
     # 🚫 ILLEGAL WORDS (BOT SIDE FILTER)
